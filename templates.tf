@@ -8,4 +8,3 @@ data "template_file" "keycloak" {
     JAR               = filebase64("jar/prov.jar")
   }
 }
-
