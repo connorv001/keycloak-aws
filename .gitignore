@@ -9,3 +9,5 @@ rsa/
 kcadmvol
 *.jar
 aws.xml
+export.sh
+hello.sh
